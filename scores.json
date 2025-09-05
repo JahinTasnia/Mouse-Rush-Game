@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Shuci",
+        "score": 530,
+        "duration": 60,
+        "client_ts": 1757053807,
+        "ts": 1757053807
+    },
+    {
+        "name": "Jahin",
+        "score": 470,
+        "duration": 60,
+        "client_ts": 1757053939,
+        "ts": 1757053939
+    },
+    {
+        "name": "Mithila",
+        "score": 60,
+        "duration": 60,
+        "client_ts": 1757053599,
+        "ts": 1757053599
+    },
+    {
+        "name": "Anonymous",
+        "score": 0,
+        "duration": 60,
+        "client_ts": 1757051702,
+        "ts": 1757051702
+    }
+]
